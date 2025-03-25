@@ -1,4 +1,4 @@
-<h1>Hi, I'm Slava Slobodianyk! 
+<h1>Hi, I'm Sviat Slobodianyk! 
 <a href="https://www.linkedin.com/in/slavaslobodianykr/">Cybersecurity Professional and SOC Team Lead</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
