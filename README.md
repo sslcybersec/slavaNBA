@@ -1,5 +1,5 @@
 <h1>Hi, I'm Sviat Slobodianyk! 
-<a href="https://www.linkedin.com/in/slavaslobodianykr/">Cybersecurity Professional and SOC Team Lead</a>
+<a href="https://www.linkedin.com/in/slavaslobodianykr/">Cybersecurity Professional and CISO and Security architect</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
